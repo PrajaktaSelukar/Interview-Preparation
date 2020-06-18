@@ -1,1 +1,1 @@
-###This questions are curated by Love Babbar
+This questions are curated by Love Babbar
