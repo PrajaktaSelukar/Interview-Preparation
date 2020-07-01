@@ -3,9 +3,7 @@ In this repository I am trying to upload regularly the solutions to the question
 
 I have divided the questions into two parts - Basic and Intermediate.
 
-The questions are curated list provided by Love Babbar and GeeksforGeeks. Follow his Placement Series on Youtube to get a guidance.
-
-I tried to solve a single problem in different approaches to understand how to build a solution from Naive method till we get a optimize its time and space complexity.
+I tried to solve a single problem in different approaches to understand how to build a solution from Naive method till we optimize its time and space complexity.
 
 I hope this help you in your coding journey and feel free to fork or download this repo.
 
