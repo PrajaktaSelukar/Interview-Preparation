@@ -7,5 +7,5 @@ I tried to solve a single problem in different approaches to understand how to b
 
 I hope this help you in your coding journey and feel free to fork or download this repo.
 
-If you have any doubt connect with me on [LinkedIn](www.linkedin.com/in/prajakta-selukar97).
+If you have any doubt connect with me on [LinkedIn](https://www.linkedin.com/in/prajakta-selukar97/).
 
